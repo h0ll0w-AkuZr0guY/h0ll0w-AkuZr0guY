@@ -17,10 +17,36 @@
 | Open-Source Treasure Scavenging | ⭐⭐⭐⭐☆ (Star-repo harvester activated) | Repo source-dissecting, light secondary modification tricks |
 
 ### 🛠️ My Gear Inventory
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio) 
-[![Appium](https://img.shields.io/badge/Appium-46A2F1?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio) [![Appium](https://img.shields.io/badge/Appium-46A2F1?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/) 
+
+#### 📊 Big Data Arsenal
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+
+- **Data Forging Skills**: Distributed data processing, real-time stream analytics, data visualization
+- **Big Data Quests**: Analyzing game metrics, social media sentiment analysis
+
+#### 🎮 明日方舟 (Arknights) Command Center
+[![Arknights](https://img.shields.io/badge/Arknights-FF6B6B?style=for-the-badge&logo=android&logoColor=white)](https://www.arknights.global/)
+| Operator Type | Favorite Picks |
+|---------------|----------------|
+| Caster | Amiya, Ifrit |
+| Sniper | Exusiai, Ash |
+| Vanguard | Texas, Siege |
+
+#### 🎵 Guitar Studio
+[![Guitar](https://img.shields.io/badge/Guitar-F8C471?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com/)
+
+- **Guitar Collection**: Acoustic (Rose & Gun), Electric (Lava Me)
+- **Favorite Genres**: Anime OSTs, Fingerstyle
+- **Practice Tools**: [Guitar Pro](https://www.guitar-pro.com/), [Lava](https://www.lavamusic.com/)
+- **Cover Projects**: Anime theme songs, Kotaro Oshio, Masaaki Kishibe
+
+#### ✨ 二次元 (Anime Dimension) Gear
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/)[![AniList](https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=anilist&logoColor=white)](https://anilist.co/)[![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-262626?style=for-the-badge&logo=clip-studio-paint&logoColor=white)](https://www.clipstudio.net/)
+
+- **Anime Status**: Seasonal watcher, manga reader, doujinshi enthusiast
+- **Favorite Genres**: Isekai, Slice of Life, Mecha, Visual Novels
+- **Anime Con Quests**: Attended 3+ anime conventions, cosplay enthusiast
 
 ## 📦 Open Source Treasure Chest (Scavenged Loot) 
 > High-quality "spoils" collected so far—feel free to trade or feed me more: 
