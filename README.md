@@ -8,19 +8,21 @@
 [![Writing](https://img.shields.io/badge/READ_THE_BLOG-00A88F?style=for-the-badge&logo=markdown&logoColor=white)](https://h0ll0w-akuzr0guy.github.io/writing)
 [![Algorithms](https://img.shields.io/badge/OPEN_ALGORITHM_LAB-FF7849?style=for-the-badge&logo=leetcode&logoColor=white)](https://h0ll0w-akuzr0guy.github.io/algorithms)
 
+[English](./README.md) · [简体中文](./README.zh-CN.md)
+
 </div>
 
 ## A system builder who keeps the receipts
 
-我叫 **Zhiyuan**，计算机科学与技术硕士研究生。
+I'm **Zhiyuan**, a master's student in Computer Science and Technology.
 
-我的工作位于大模型应用、可靠性验证与 Agent 工作流的交界处。我喜欢从一个真实问题出发，把模型接入检索、工具和记忆；然后继续追问：**这个输出依据什么产生，能否复现，失败时能否定位，下一位使用者能否接着工作？**
+My work sits at the intersection of LLM applications, reliability evaluation, and agent workflows. I like to begin with a real problem, connect a model to retrieval, tools, and memory, and then keep asking: **What produced this result? Can it be reproduced? Can a failure be located? Can the next person continue from where the system stopped?**
 
-于是，研究、工程与写作逐渐汇成了同一个长期项目：
+Research, engineering, and writing have gradually converged into one long-running project:
 
-- **Reliable AI**：用检索证据、语义几何与反馈式建模识别低置信输出。
-- **Auditable Agents**：把目标、权限、证据和验收条件写进工作流合同。
-- **Knowledge Infrastructure**：把十年笔记、算法练习、项目记录和研究判断组织成可搜索、可连接、可继续生长的系统。
+- **Reliable AI**: using retrieved evidence, semantic geometry, and feedback-driven modeling to identify low-confidence outputs.
+- **Auditable Agents**: making goals, permissions, evidence, and acceptance criteria explicit in workflow contracts.
+- **Knowledge Infrastructure**: turning years of notes, algorithm practice, project records, and research decisions into a searchable, connected system that can keep growing.
 
 ```text
 question ──▶ evidence ──▶ experiment ──▶ claim
@@ -39,7 +41,7 @@ question ──▶ evidence ──▶ experiment ──▶ claim
         <img src="https://h0ll0w-akuzr0guy.github.io/og-atlas-v2.png" alt="Aiznoyer Atlas preview" width="100%" />
       </a>
       <h3>Aiznoyer Atlas</h3>
-      <p>把本科笔记、研究生写作、算法练习与多仓库数据源统一成一座可搜索、可漫游的知识花园。</p>
+      <p>A searchable, explorable knowledge garden that unifies undergraduate notes, graduate writing, algorithm practice, and multi-repository data sources.</p>
       <p>
         <a href="https://h0ll0w-akuzr0guy.github.io/"><b>Live garden ↗</b></a>
         ·
@@ -51,7 +53,7 @@ question ──▶ evidence ──▶ experiment ──▶ claim
         <img src="https://h0ll0w-akuzr0guy.github.io/scholarflow-agent/og.png" alt="ScholarFlow preview" width="100%" />
       </a>
       <h3>ScholarFlow</h3>
-      <p>本地优先的科研规划助手，把模糊课题拆成证据、实验、主张与可验收的阶段合同。</p>
+      <p>A local-first research planning assistant that turns an ambiguous topic into evidence, experiments, claims, and testable stage contracts.</p>
       <p>
         <a href="https://h0ll0w-akuzr0guy.github.io/scholarflow-agent/"><b>Try the workflow ↗</b></a>
         ·
@@ -65,7 +67,7 @@ question ──▶ evidence ──▶ experiment ──▶ claim
         <img src="https://opengraph.githubassets.com/atlas-profile/h0ll0w-AkuZr0guY/chronicle-memory" alt="Chronicle Memory preview" width="100%" />
       </a>
       <h3>Chronicle Memory</h3>
-      <p>面向口述史、传记和日志的证据优先记忆设施，让事实、推断与叙事既能共存，也能被区分。</p>
+      <p>Evidence-first memory infrastructure for oral histories, biographies, and journals, keeping facts, inferences, and narratives together without conflating them.</p>
       <p>
         <a href="https://h0ll0w-akuzr0guy.github.io/chronicle-memory/"><b>Explore memory ↗</b></a>
         ·
@@ -77,7 +79,7 @@ question ──▶ evidence ──▶ experiment ──▶ claim
         <img src="https://opengraph.githubassets.com/atlas-profile/h0ll0w-AkuZr0guY/let-code-in-pad" alt="Let Code in Pad preview" width="100%" />
       </a>
       <h3>Let Code in Pad</h3>
-      <p>面向电脑深度录入与平板碎片复习的离线知识工具，让同一份 Markdown 在不同设备切换工作形态。</p>
+      <p>An offline-first knowledge tool for deep desktop authoring and lightweight tablet review, giving the same Markdown different working modes across devices.</p>
       <p>
         <a href="https://github.com/h0ll0w-AkuZr0guY/let-code-in-pad"><b>Open repository ↗</b></a>
       </p>
@@ -89,32 +91,26 @@ question ──▶ evidence ──▶ experiment ──▶ claim
 
 | Route | What lives there |
 |:--|:--|
-| [About](https://h0ll0w-akuzr0guy.github.io/) | 一份可以滚动、切换与互动的个人项目地图 |
-| [Blog](https://h0ll0w-akuzr0guy.github.io/writing) | 从课堂、工程到研究阶段，已经统一格式的长期写作 |
-| [Algorithm Lab](https://h0ll0w-akuzr0guy.github.io/algorithms) | 左题右码、答案遮蔽、随机抽题与本地草稿 |
-| [Knowledge Graph](https://h0ll0w-akuzr0guy.github.io/map) | 从 100+ 篇文档抽取出的概念网络与阅读路径 |
+| [About](https://h0ll0w-akuzr0guy.github.io/) | A scroll-driven, interactive map of my work and the questions behind it |
+| [Blog](https://h0ll0w-akuzr0guy.github.io/writing) | Long-form notes and writing from coursework through current research |
+| [Algorithm Lab](https://h0ll0w-akuzr0guy.github.io/algorithms) | Split-view practice, hidden solutions, random drills, and local drafts |
+| [Knowledge Graph](https://h0ll0w-akuzr0guy.github.io/map) | Concepts and reading paths extracted from more than 100 documents |
 
 ## Open-source traces
 
-我更愿意把开源贡献写成可核验的痕迹，而非一串模糊的项目名。
+I prefer verifiable traces of contribution over a long, ambiguous list of project names.
 
 | Upstream | Contribution |
 |:--|:--|
-| [NevaMind-AI/memUBot](https://github.com/NevaMind-AI/memUBot) | 为自定义模型提供商加入 Ollama 与 OpenAI-compatible 本地模型适配，[PR #6 已合并](https://github.com/NevaMind-AI/memUBot/pull/6)。 |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 提交 OneBot v11 / NapCat QQ 适配，以及可空 `resource_id` 的存储后端修复，[PR #369 等待评审](https://github.com/NevaMind-AI/memU/pull/369)。 |
-| [MonsterNone/tmall-miao](https://github.com/MonsterNone/tmall-miao) | 在 fork 中实现 Android `uiautomator2` 版本与 Android 操作手册。 |
+| [NevaMind-AI/memUBot](https://github.com/NevaMind-AI/memUBot) | Added Ollama and OpenAI-compatible local-model support for custom providers; [PR #6 merged](https://github.com/NevaMind-AI/memUBot/pull/6). |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Submitted OneBot v11 / NapCat QQ integration and nullable `resource_id` fixes for storage backends; [PR #369 awaiting review](https://github.com/NevaMind-AI/memU/pull/369). |
+| [MonsterNone/tmall-miao](https://github.com/MonsterNone/tmall-miao) | Implemented an Android `uiautomator2` version and wrote the Android operation guide in my fork. |
 
 ## Current questions
 
-<details open>
-<summary><b>What I am thinking about now</b></summary>
-<br />
-
-- 当 Agent 自主执行一项研究任务时，怎样把权限、证据和验收边界变成显式协议？
-- 当 RAG 给出流畅答案时，怎样用语义空间与来源关系识别“看起来正确”的错误？
-- 当 AI 能快速生成大量代码时，人的核心竞争力怎样转向问题定义、系统约束与验证设计？
-
-</details>
+- When an agent executes a research task autonomously, how can permissions, evidence, and acceptance boundaries become an explicit protocol?
+- When RAG produces a fluent answer, how can semantic space and source relationships expose errors that merely look correct?
+- As AI makes code generation abundant, how should human advantage shift toward problem framing, system constraints, and verification design?
 
 <div align="center">
 
