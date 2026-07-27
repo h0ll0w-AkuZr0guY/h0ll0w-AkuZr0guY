@@ -121,9 +121,9 @@ question ──▶ evidence ──▶ experiment ──▶ claim
 ### A living contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY/output/github-contribution-grid-snake.svg" />
-  <img alt="Zhiyuan's contribution graph animated as a snake" src="https://raw.githubusercontent.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Zhiyuan's contribution graph animated as a snake" src="https://raw.githubusercontent.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h0ll0w-AkuZr0guY&theme=transparent" alt="Zhiyuan's GitHub activity summary" width="92%" />
