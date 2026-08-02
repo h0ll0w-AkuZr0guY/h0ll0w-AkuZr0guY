@@ -63,15 +63,15 @@ question ──▶ evidence ──▶ experiment ──▶ claim
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://h0ll0w-akuzr0guy.github.io/chronicle-memory/">
-        <img src="https://opengraph.githubassets.com/atlas-profile/h0ll0w-AkuZr0guY/chronicle-memory" alt="Chronicle Memory preview" width="100%" />
+      <a href="https://akuzr0guy.space/chronicle-memory/">
+        <img src="https://opengraph.githubassets.com/atlas-profile/h0ll0w-AkuZr0guY/chronicle-memory-web" alt="Chronicle Memory preview" width="100%" />
       </a>
       <h3>Chronicle Memory</h3>
       <p>Evidence-first memory infrastructure for oral histories, biographies, and journals, keeping facts, inferences, and narratives together without conflating them.</p>
       <p>
-        <a href="https://h0ll0w-akuzr0guy.github.io/chronicle-memory/"><b>Explore memory ↗</b></a>
+        <a href="https://akuzr0guy.space/chronicle-memory/"><b>Explore memory ↗</b></a>
         ·
-        <a href="https://github.com/h0ll0w-AkuZr0guY/chronicle-memory">Source ↗</a>
+        <a href="https://github.com/h0ll0w-AkuZr0guY/chronicle-memory-web">Source ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">

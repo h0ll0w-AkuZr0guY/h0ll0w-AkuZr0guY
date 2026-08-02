@@ -32,7 +32,7 @@
 
 本地优先的科研规划助手，把模糊课题拆成证据、实验、主张与可验收的阶段合同。
 
-### [Chronicle Memory ↗](https://h0ll0w-akuzr0guy.github.io/chronicle-memory/)
+### [Chronicle Memory ↗](https://akuzr0guy.space/chronicle-memory/)
 
 面向口述史、传记和日志的证据优先记忆设施，让事实、推断与叙事既能共存，也能被区分。
 
