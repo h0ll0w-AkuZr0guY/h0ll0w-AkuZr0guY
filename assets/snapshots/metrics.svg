@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" role="img" aria-labelledby="title description">
+  <title id="title">Living Memory Lab system pulse</title>
+  <desc id="description">A stable system pulse summarizing the public profile structure.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .title { font-size: 22px; fill: #E7F0FF; font-weight: 700; }
+    .label { font-size: 13px; fill: #8FA7C2; letter-spacing: 1px; }
+    .value { font-size: 24px; fill: #68E0CF; }
+  </style>
+  <rect width="900" height="250" rx="22" fill="#07111F"/>
+  <path d="M38 190H862" stroke="#8FA7C2" stroke-opacity=".22"/>
+  <path d="M38 180h90l18-24 28 48 24-40 32 16h96l20-20 28 34 26-38 28 24h424" fill="none" stroke="#68E0CF" stroke-width="4"/>
+  <text class="label" x="38" y="42">LOCAL SNAPSHOT / SAFE FALLBACK</text>
+  <text class="title" x="38" y="78">Living Memory Lab system pulse</text>
+  <text class="value" x="604" y="78">ONLINE</text>
+  <text class="value" x="38" y="126">04</text>
+  <text class="label" x="78" y="124">PUBLIC SYSTEMS</text>
+  <text class="value" x="286" y="126">03</text>
+  <text class="label" x="326" y="124">VERIFIABLE TRACES</text>
+  <text class="value" x="588" y="126">02</text>
+  <text class="label" x="628" y="124">LANGUAGE EDITIONS</text>
+  <text class="label" x="38" y="224">LOCAL SNAPSHOT · SAFE TO FAIL · LAST KNOWN RESULT STAYS VISIBLE</text>
+</svg>

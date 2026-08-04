@@ -1,0 +1,164 @@
+version: 1
+
+profile:
+  username: h0ll0w-AkuZr0guY
+  name: Zhiyuan
+  email: 1213791406@qq.com
+  theme: living-memory-lab
+  default_language: en
+  headline:
+    en: Reliable AI · Auditable Agents · Knowledge Infrastructure
+    zh: 可靠 AI · 可审计 Agent · 知识基础设施
+  role:
+    en: A system builder who keeps the receipts.
+    zh: 一个保留证据的系统构建者。
+  introduction:
+    en: I build AI systems that keep goals, evidence, permissions, and acceptance criteria visible. My work connects research questions to tools, memory, and products people can actually use.
+    zh: 我构建让目标、证据、权限与验收标准保持可见的 AI 系统，并把研究问题连接到工具、记忆和真实可用的产品。
+  principle:
+    en: I care about what a model can do. I care even more about why we should trust the result.
+    zh: 我关心模型能做什么，更关心我们凭什么相信它的结果。
+
+campaign:
+  source: github
+  medium: profile
+  name: living-memory-lab
+
+links:
+  chronicle_demo: https://h0ll0w-akuzr0guy.github.io/chronicle-memory-web/chronicle-memory/
+  chronicle_deployment: https://akuzr0guy.space/chronicle-memory/
+  chronicle_source: https://github.com/h0ll0w-AkuZr0guY/chronicle-memory-web
+  scholarflow_demo: https://h0ll0w-akuzr0guy.github.io/scholarflow-agent/
+  scholarflow_source: https://github.com/h0ll0w-AkuZr0guY/scholarflow-agent
+  atlas: https://h0ll0w-akuzr0guy.github.io/
+  atlas_source: https://github.com/h0ll0w-AkuZr0guY/h0ll0w-AkuZr0guY.github.io
+  writing: https://h0ll0w-akuzr0guy.github.io/writing
+  algorithms: https://h0ll0w-akuzr0guy.github.io/algorithms
+  knowledge_graph: https://h0ll0w-akuzr0guy.github.io/map
+  let_code: https://github.com/h0ll0w-AkuZr0guY/let-code-in-pad
+
+theme:
+  dark:
+    background: "#07111F"
+    surface: "#0D1B2A"
+    paper: "#F3EBDD"
+    text: "#E7F0FF"
+    muted: "#8FA7C2"
+    primary: "#68E0CF"
+    secondary: "#A78BFA"
+    accent: "#FF9E73"
+  light:
+    background: "#F7F3EA"
+    surface: "#FFFDF7"
+    paper: "#FFFFFF"
+    text: "#172235"
+    muted: "#5E6B7C"
+    primary: "#007F73"
+    secondary: "#7357C6"
+    accent: "#C5552D"
+
+modules:
+  hero_animation: true
+  metrics_snapshot: true
+  contribution_snake: true
+  public_memory: true
+  anilist: false
+  music: false
+  archive_legacy_readme: true
+
+pillars:
+  - title:
+      en: Reliable AI
+      zh: 可靠 AI
+    body:
+      en: Retrieved evidence, semantic geometry, and feedback-driven checks for low-confidence outputs.
+      zh: 用检索证据、语义几何与反馈式检查识别低置信输出。
+  - title:
+      en: Auditable Agents
+      zh: 可审计 Agent
+    body:
+      en: Goals, permissions, evidence, and acceptance criteria expressed as workflow contracts.
+      zh: 把目标、权限、证据与验收条件写成工作流合同。
+  - title:
+      en: Knowledge Infrastructure
+      zh: 知识基础设施
+    body:
+      en: Notes, experiments, projects, and decisions organized into systems that can keep growing.
+      zh: 把笔记、实验、项目与判断组织成可以持续生长的系统。
+
+projects:
+  - id: chronicle
+    name: Chronicle Memory
+    featured: true
+    demo_link: chronicle_demo
+    deployment_link: chronicle_deployment
+    source_link: chronicle_source
+    promise:
+      en: Put today on the page, so your future self can still find it.
+      zh: 把今天贴上来，让未来的你仍能找到它。
+    description:
+      en: A private, evidence-grounded personal journal. Photos, words, moods, time, and stories live on a freeform notebook while every AI-organized memory remains traceable to its source.
+      zh: 一款私密、证据可追溯的个人手账。照片、文字、心情、时间与故事落在自由画布上，每一份 AI 整理仍能回到原始材料。
+    status:
+      en: Public, sanitized web experience backed by a privately deployed memory service.
+      zh: 公开脱敏的 Web 体验，由私有化部署的记忆服务提供后端能力。
+  - id: scholarflow
+    name: ScholarFlow
+    demo_link: scholarflow_demo
+    source_link: scholarflow_source
+    description:
+      en: A local-first research planning assistant that turns an ambiguous topic into evidence, experiments, claims, and testable stage contracts.
+      zh: 本地优先的科研规划助手，把模糊课题拆成证据、实验、主张与可验收的阶段合同。
+  - id: atlas
+    name: Aiznoyer Atlas
+    demo_link: atlas
+    source_link: atlas_source
+    description:
+      en: A searchable knowledge garden connecting years of notes, research writing, algorithms, and project records.
+      zh: 一座连接多年笔记、研究写作、算法练习与项目记录的可搜索知识花园。
+  - id: let-code
+    name: Let Code in Pad
+    demo_link: let_code
+    description:
+      en: An offline-first knowledge tool for deep desktop authoring and lightweight tablet review.
+      zh: 面向电脑深度录入与平板轻量复习的离线优先知识工具。
+
+open_source_traces:
+  - project: NevaMind-AI/memUBot
+    url: https://github.com/NevaMind-AI/memUBot/pull/6
+    contribution:
+      en: "Added Ollama and OpenAI-compatible local-model support; PR #6 merged."
+      zh: "加入 Ollama 与 OpenAI-compatible 本地模型适配；PR #6 已合并。"
+  - project: NevaMind-AI/memU
+    url: https://github.com/NevaMind-AI/memU/pull/369
+    contribution:
+      en: "Submitted OneBot v11 / NapCat QQ integration and storage fixes; PR #369 under review."
+      zh: "提交 OneBot v11 / NapCat QQ 适配与存储修复；PR #369 等待评审。"
+  - project: MonsterNone/tmall-miao
+    url: https://github.com/MonsterNone/tmall-miao
+    contribution:
+      en: Implemented an Android uiautomator2 version and wrote the Android operation guide.
+      zh: 实现 Android uiautomator2 版本并编写 Android 操作手册。
+
+current_questions:
+  - en: How can an autonomous agent make permissions, evidence, and acceptance boundaries explicit?
+    zh: Agent 自主执行任务时，怎样把权限、证据与验收边界变成显式协议？
+  - en: How can semantic space and source relationships expose RAG errors that merely look correct?
+    zh: 怎样用语义空间与来源关系识别 RAG 中“看起来正确”的错误？
+  - en: As code becomes abundant, how should human advantage shift toward framing, constraints, and verification?
+    zh: 当代码生成变得充裕，人的优势怎样转向问题定义、约束与验证设计？
+
+personal:
+  persona: Hollow Otaku Rogue
+  details:
+    - en: Anime and Arknights live in the lab as easter eggs, not credentials.
+      zh: 二次元与明日方舟作为实验室彩蛋存在，不充当资历证明。
+    - en: Guitar practice keeps the system builder human.
+      zh: 吉他练习提醒系统构建者仍然是一个具体的人。
+    - en: Public memory shards are hand-selected; private Chronicle data is never queried here.
+      zh: 公开记忆碎片必须人工挑选；主页永不查询 Chronicle 私人数据。
+
+goals_90_days:
+  chronicle_stars: 10
+  new_followers: 5
+  collaboration_conversations: 1
