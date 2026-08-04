@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title description">
+  <title id="title">Chronicle Memory notebook</title>
+  <desc id="description">A photo and note become a traceable page in a private personal journal.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1B2A"/><stop offset="1" stop-color="#07111F"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-opacity=".18"/></filter>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    .tiny { font-size: 14px; fill: #8FA7C2; letter-spacing: 1px; }
+    .copy { font-size: 17px; fill: #3E4652; }
+  </style>
+  <rect width="760" height="420" rx="26" fill="url(#surface)"/>
+  <path d="M48 72C204 24 310 92 408 66s180-22 302 14" fill="none" stroke="#68E0CF" stroke-width="2" stroke-dasharray="7 10" opacity=".45"/>
+  <g transform="translate(92 54)" filter="url(#shadow)">
+    <path d="M0 28Q0 0 28 0h238q34 0 44 28 10-28 44-28h238q28 0 28 28v294q0 22-22 22H346q-26 0-36 22-10-22-36-22H22Q0 344 0 322Z" fill="#F3EBDD"/>
+    <path d="M310 28v338" stroke="#B6A994" stroke-width="2" opacity=".7"/>
+    <rect x="28" y="34" width="226" height="128" rx="10" fill="#07111F" opacity=".82"/>
+    <circle cx="82" cy="86" r="25" fill="#FF9E73" opacity=".88"/>
+    <path d="M30 146l68-56 44 34 54-54 56 52" fill="none" stroke="#68E0CF" stroke-width="6"/>
+    <text class="copy" x="30" y="204">Today, pasted gently.</text>
+    <text class="copy" x="30" y="234">Source kept intact.</text>
+    <path d="M30 270h214M30 294h164" stroke="#8C8375" stroke-width="3" opacity=".38"/>
+    <text class="tiny" x="346" y="62">TRACEABLE MEMORY</text>
+    <g transform="translate(360 98)">
+      <circle cx="0" cy="0" r="8" fill="#68E0CF"/>
+      <circle cx="0" cy="72" r="8" fill="#A78BFA"/>
+      <circle cx="0" cy="144" r="8" fill="#FF9E73"/>
+      <path d="M0 8v56m0 16v56" stroke="#7C8490" stroke-width="3"/>
+      <text class="copy" x="24" y="6">original photo + note</text>
+      <text class="copy" x="24" y="78">event + context</text>
+      <text class="copy" x="24" y="150">story, with evidence</text>
+    </g>
+    <rect x="346" y="276" width="208" height="40" rx="20" fill="#68E0CF" opacity=".16"/>
+    <text class="tiny" x="370" y="302">PRIVATE BY DESIGN</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+version: 1
+
+# Only hand-selected, already-public material belongs in this file.
+# Never connect this generator to the private Chronicle database.
+memories:
+  - id: trust-the-trace
+    active: true
+    date: "2026"
+    source:
+      en: Chronicle Memory design note
+      zh: Chronicle Memory 设计札记
+    text:
+      en: A useful memory should preserve the path back to what actually happened.
+      zh: 一份有用的记忆，应当保留回到真实发生之事的路径。
+  - id: questions-first
+    active: false
+    date: "2026"
+    source:
+      en: Research notebook
+      zh: 研究手记
+    text:
+      en: Better systems often begin with a better boundary around the question.
+      zh: 更好的系统，常常始于为问题画出更准确的边界。
